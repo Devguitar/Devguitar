@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Dave Cabe </h1>
 <h3 align="center">I’m a passionate Junior Full Stack Developer driven by curiosity. I enjoy turning ideas into smooth, functional digital experiences through clean and efficient code.</h3>
 
-- 🔭 I’m currently working on a**FullStack Health Information System Project**.
+- 🔭 I’m currently working on a **FullStack Health Information System Project**.
 
 - 🌱 I’m currently learning **System Design, API Architecture, and Scalable Application Patterns**.
 
