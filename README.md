@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design, API Architecture, and Scalable Application Patterns**
 
-- 💬 Ask me about ****
+- 💬 Ask me about **Laravel, Vue.js, RESTful APIs, and Full Stack Development**
 
 - 👨‍💻 Portfolio: https://Devguitar.github.io/portfolio/
 
