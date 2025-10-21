@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm John Dave Cabe </h1>
-<h3 align="center">I’m a passionate Junior Full Stack Developer driven by curiosity. I enjoy turning ideas into smooth, functional digital experiences through clean and efficient code.</h3>
+<h1 align="center">
+  Hi 👋, I'm
+  <span style="
+    background: linear-gradient(90deg, #2d77dc, #00d4ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    John Dave Cabe
+  </span>
+</h1>
+
+<h3 align="center" style="color: #b0b0b0; font-weight: normal;">
+  I’m a passionate <span style="color:#2d77dc;">Junior Full Stack Developer</span> driven by curiosity.<br>
+  I enjoy turning ideas into smooth, functional digital experiences<br>
+  through clean, efficient, and scalable code.
+</h3>
 
 - 🔭 I’m currently working on **FullStack Health Information System Project**
 
