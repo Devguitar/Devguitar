@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Dave Cabe </h1>
 <h3 align="center">I’m a passionate Junior Full Stack Developer driven by curiosity. I enjoy turning ideas into smooth, functional digital experiences through clean and efficient code.</h3>
 
-  <img src="https://www.svgrepo.com/show/530602/code.svg" width="20" /> 
-  I’m currently working on a <strong>Full-Stack Health Information System project</strong>.
+  <img src="https://www.svgrepo.com/show/512303/laptop-code.svg" width="20" />  I’m currently working on a <strong>Full-Stack Health Information System project</strong>.
   <br><br>
 - 🌱 I’m currently learning **System Design, API Architecture, and Scalable Application Patterns**.
 
