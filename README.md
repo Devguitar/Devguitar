@@ -25,10 +25,13 @@
 
 Passionate developer with a curiosity-driven approach to building seamless digital experiences. I believe in writing clean, efficient code that makes a difference.
 
-**🔭 Currently Building:** FullStack Health Information System  
-**🌱 Currently Learning:** System Design, API Architecture, Scalable Patterns  
-**💬 Ask Me About:** Laravel, Vue.js, RESTful APIs, Full Stack Development  
-**⚡ Fun Fact:** Every great app starts with a great idea and a cup of coffee
+const johnDave = {
+    role: "Junior Full Stack Developer",
+    currentFocus: "FullStack Health Information System",
+    learning: ["System Design", "API Architecture", "Scalable Patterns"],
+    askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
+    funFact: "Driven by curiosity, powered by coffee ☕"
+};
 
 <br clear="right"/>
 
