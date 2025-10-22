@@ -126,9 +126,8 @@ const johnDave = {
 
 <br/>
 
-<div align="center">
-
 ##  Open for Opportunities
+<div align="center">
 
 **Freelance Projects • Collaborations • Part-Time Positions**
 
