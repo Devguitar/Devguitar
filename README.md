@@ -37,7 +37,6 @@ const johnDave = {
 
 <br clear="right"/>
 
-<br/>
 
 ##  Tech Stack
 
