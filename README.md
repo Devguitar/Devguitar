@@ -23,21 +23,22 @@
 
 <br/>
 <br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-**`const`** johnDave **`= {`**  
-&nbsp;&nbsp;&nbsp;&nbsp;**`role:`** `"Junior Full Stack Developer"`,  
-&nbsp;&nbsp;&nbsp;&nbsp;**`currentFocus:`** `"FullStack Health Information System"`,  
-&nbsp;&nbsp;&nbsp;&nbsp;**`learning:`** `["System Design", "API Architecture", "Scalable Patterns"]`,  
-&nbsp;&nbsp;&nbsp;&nbsp;**`askMeAbout:`** `["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"]`,  
-&nbsp;&nbsp;&nbsp;&nbsp;**`funFact:`** `"Driven by curiosity, powered by coffee ☕"`  
-**`};`**
+```typescript
+const johnDave = {
+    role: "Junior Full Stack Developer",
+    currentFocus: "FullStack Health Information System",
+    learning: ["System Design", "API Architecture", "Scalable Patterns"],
+    askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
+    funFact: "Driven by curiosity, powered by coffee ☕"
+};
+```
 
 <br clear="right"/>
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
 <tr>
@@ -80,7 +81,7 @@
 
 <br/>
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -105,7 +106,7 @@
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -115,7 +116,7 @@
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -125,7 +126,7 @@
 
 <br/>
 
-## 💼 Open for Opportunities
+##  Open for Opportunities
 <div align="center">
 
 **Freelance Projects • Collaborations • Part-Time Positions**
