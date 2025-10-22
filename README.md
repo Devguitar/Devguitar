@@ -19,7 +19,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -41,7 +41,7 @@ const johnDave = {
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
 <tr>
@@ -84,7 +84,7 @@ const johnDave = {
 
 <br/>
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -109,7 +109,7 @@ const johnDave = {
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -119,7 +119,7 @@ const johnDave = {
 
 <br/>
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -131,7 +131,7 @@ const johnDave = {
 
 <div align="center">
 
-## 💼 Open for Opportunities
+##  Open for Opportunities
 
 **Freelance Projects • Collaborations • Full-Time Positions**
 
