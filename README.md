@@ -133,7 +133,7 @@ const johnDave = {
 
 ##  Open for Opportunities
 
-**Freelance Projects • Collaborations • Full-Time Positions**
+**Freelance Projects • Collaborations • Part-Time Positions**
 
 *Let's build something amazing together!*
 
