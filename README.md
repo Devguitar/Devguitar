@@ -12,8 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat-square&logoColor=white)](https://Devguitar.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white)](mailto:devguitar.github@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk)
-<!-- <img src="https://komarev.com/ghpvc/?username=Devguitar&label=Visitors&color=3B82F6&style=flat-square" alt="Profile Views" /> -->
-![Visitors](https://img.shields.io/badge/dynamic/json?color=3B82F6&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Devguitar.github.profile/unique_visits&style=flat-square)
+
 
 </div>
 
