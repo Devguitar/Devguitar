@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-```typescript
+<pre style="user-select: none; -webkit-user-select: none; -moz-user-select: none; pointer-events: none; background: #0d1117; color: #58a6ff; padding: 1rem; border-radius: 10px;">
 const johnDave = {
     role: "Junior Full Stack Developer",
     currentFocus: "FullStack Health Information System",
@@ -35,7 +35,8 @@ const johnDave = {
     askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
     funFact: "Driven by curiosity, powered by coffee ☕"
 };
-```
+</pre>
+
 
 <br clear="right"/>
 
