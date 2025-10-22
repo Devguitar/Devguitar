@@ -25,6 +25,7 @@
 
 <br/>
 <br/>
+
 ```typescript
 const johnDave = {
     role: "Junior Full Stack Developer",
