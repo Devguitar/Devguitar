@@ -1,24 +1,9 @@
 <div align="center">
 
 <picture>
-  <!-- 🌙 Dark mode banner -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=65&descSize=20&descColor=dddddd"
-  />
-  
-  <!-- ☀️ Light mode banner -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=333333&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=65&descSize=20&descColor=555555"
-  />
-  
-  <!-- 🖼️ Default fallback -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=65&descSize=20&descColor=dddddd"
-    width="100%"
-    alt="Header banner of John Dave Cabe - Full Stack Developer"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=dddddd">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=333333&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=555555">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=dddddd" width="100%"/>
 </picture>
 
 <br/>
