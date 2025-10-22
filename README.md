@@ -19,21 +19,7 @@
 
 ## About Me
 
-<div style="position: relative; width: 380px;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-       alt="Coding" width="380" style="border-radius: 10px;">
-  <div style="
-      position: absolute; 
-      top: 0; 
-      left: 0; 
-      width: 100%; 
-      height: 100%; 
-      background: url('your-hoodie-overlay.png') no-repeat center; 
-      background-size: cover;
-      pointer-events: none;
-  "></div>
-</div>
-<!-- <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br/>
 <br/>
