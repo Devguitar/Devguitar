@@ -63,7 +63,7 @@ Passionate developer with a curiosity-driven approach to building seamless digit
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
 <br><sub><b>Tailwind CSS</b></sub>
 </td>
 <td align="center" width="25%">
@@ -81,7 +81,7 @@ Passionate developer with a curiosity-driven approach to building seamless digit
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
 <br><sub><b>Laravel</b></sub>
 </td>
 <td align="center" width="25%">
