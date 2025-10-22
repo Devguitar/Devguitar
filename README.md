@@ -83,7 +83,6 @@
 
 </p>
 
-<!-- GRS (Dark Mode) -->
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/Devguitar" target="_blank" rel="noreferrer">
