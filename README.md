@@ -4,9 +4,7 @@
 
 <br/>
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter;Clean+Code+Enthusiast;API+Architecture+Explorer" alt="Typing SVG" />
-
 
 <br/>
 
@@ -27,14 +25,15 @@
 <br/>
 <br/>
 
-'''typescript
+```typescript
 const johnDave = {
     role: "Junior Full Stack Developer",
     currentFocus: "FullStack Health Information System",
     learning: ["System Design", "API Architecture", "Scalable Patterns"],
     askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
     funFact: "Driven by curiosity, powered by coffee ☕"
-};'''
+};
+```
 
 <br clear="right"/>
 
