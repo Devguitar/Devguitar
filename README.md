@@ -27,13 +27,13 @@
 <br/>
 <br/>
 
-<pre style="user-select: none; -webkit-user-select: none; -moz-user-select: none; pointer-events: none; background: #0d1117; color: #58a6ff; padding: 1rem; border-radius: 10px;">
-const johnDave = {
-    role: "Junior Full Stack Developer",
-    currentFocus: "FullStack Health Information System",
-    learning: ["System Design", "API Architecture", "Scalable Patterns"],
-    askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
-    funFact: "Driven by curiosity, powered by coffee ☕"
+<pre style="user-select: none; -webkit-user-select: none; -moz-user-select: none; pointer-events: none; background:#0d1117; color:#e6edf3; padding:1rem; border-radius:10px; font-family:'Fira Code', monospace; font-size:15px; line-height:1.6;">
+<span style="color:#ff9800;">const</span> johnDave = {
+    role: <span style="color:#a5d6ff;">"Junior Full Stack Developer"</span>,
+    currentFocus: <span style="color:#a5d6ff;">"FullStack Health Information System"</span>,
+    learning: [<span style="color:#a5d6ff;">"System Design"</span>, <span style="color:#a5d6ff;">"API Architecture"</span>, <span style="color:#a5d6ff;">"Scalable Patterns"</span>],
+    askMeAbout: [<span style="color:#a5d6ff;">"Laravel"</span>, <span style="color:#a5d6ff;">"Vue.js"</span>, <span style="color:#a5d6ff;">"RESTful APIs"</span>, <span style="color:#a5d6ff;">"Full Stack Dev"</span>],
+    funFact: <span style="color:#a5d6ff;">"Driven by curiosity, powered by coffee ☕"</span>
 };
 </pre>
 
