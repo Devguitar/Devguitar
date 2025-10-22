@@ -27,16 +27,28 @@
 <br/>
 <br/>
 
-<pre style="user-select: none; -webkit-user-select: none; -moz-user-select: none; pointer-events: none; background:#0d1117; color:#e6edf3; padding:1rem; border-radius:10px; font-family:'Fira Code', monospace; font-size:15px; line-height:1.6;">
-<span style="color:#ff9800;">const</span> johnDave = {
-    role: <span style="color:#a5d6ff;">"Junior Full Stack Developer"</span>,
-    currentFocus: <span style="color:#a5d6ff;">"FullStack Health Information System"</span>,
-    learning: [<span style="color:#a5d6ff;">"System Design"</span>, <span style="color:#a5d6ff;">"API Architecture"</span>, <span style="color:#a5d6ff;">"Scalable Patterns"</span>],
-    askMeAbout: [<span style="color:#a5d6ff;">"Laravel"</span>, <span style="color:#a5d6ff;">"Vue.js"</span>, <span style="color:#a5d6ff;">"RESTful APIs"</span>, <span style="color:#a5d6ff;">"Full Stack Dev"</span>],
-    funFact: <span style="color:#a5d6ff;">"Driven by curiosity, powered by coffee ☕"</span>
+<pre style="
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  pointer-events: none;
+  background: #1e1e1e;
+  color: #d4d4d4;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  font-family: 'Fira Code', monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  overflow-x: auto;
+">
+<span style="color:#c586c0;">const</span> <span style="color:#9cdcfe;">johnDave</span> = {
+    <span style="color:#9cdcfe;">role</span>: <span style="color:#ce9178;">"Junior Full Stack Developer"</span>,
+    <span style="color:#9cdcfe;">currentFocus</span>: <span style="color:#ce9178;">"FullStack Health Information System"</span>,
+    <span style="color:#9cdcfe;">learning</span>: [<span style="color:#ce9178;">"System Design"</span>, <span style="color:#ce9178;">"API Architecture"</span>, <span style="color:#ce9178;">"Scalable Patterns"</span>],
+    <span style="color:#9cdcfe;">askMeAbout</span>: [<span style="color:#ce9178;">"Laravel"</span>, <span style="color:#ce9178;">"Vue.js"</span>, <span style="color:#ce9178;">"RESTful APIs"</span>, <span style="color:#ce9178;">"Full Stack Dev"</span>],
+    <span style="color:#9cdcfe;">funFact</span>: <span style="color:#ce9178;">"Driven by curiosity, powered by coffee ☕"</span>
 };
 </pre>
-
 
 <br clear="right"/>
 
