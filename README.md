@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=D4915D&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=9B8270" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=D4915D&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=9B8270">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=8B5E3C&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=6B5B4F">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=180&section=header&text=John%20Dave%20Cabe&fontSize=50&fontColor=D4915D&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=9B8270" width="100%"/>
+</picture>
 
 <br/>
 
@@ -154,9 +158,9 @@ Passionate developer with a curiosity-driven approach to building seamless digit
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2&title=Commits,Repositories,PullRequest,Issues">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2&title=Commits,Repositories,PullRequest,Issues">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2&title=Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=4&row=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=flat&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=4&row=2">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devguitar&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies" />
 </picture>
 
 </div>
@@ -187,6 +191,10 @@ Passionate developer with a curiosity-driven approach to building seamless digit
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=100&section=footer" width="100%"/>
+</picture>
 
 </div>
