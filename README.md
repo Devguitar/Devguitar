@@ -103,7 +103,7 @@ const johnDave = {
 <!-- <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="47%" />  -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="47%" />
 
 
 </div>
