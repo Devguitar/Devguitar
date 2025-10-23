@@ -100,7 +100,17 @@ const johnDave = {
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="47%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="47%" /> -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Devguitar&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
