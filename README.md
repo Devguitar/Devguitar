@@ -13,15 +13,9 @@
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white)](mailto:devguitar.github@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk)
 
-<a href="https://Devguitar.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat-square&logoColor=white" alt="Portfolio" style="transform: scale(1.5); margin: 5px;" />
-</a>
-<a href="mailto:devguitar.github@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white" alt="Email" style="transform: scale(1.5); margin: 5px;" />
-</a>
-<a href="https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk">
-  <img src="https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white" alt="Resume" style="transform: scale(1.5); margin: 5px;" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat-square&logoColor=white&labelSize=24&logoSize=30)](https://Devguitar.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white&labelSize=24&logoSize=30)](mailto:devguitar@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white&labelSize=24&logoSize=30)](https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk)
 
 </div>
 
