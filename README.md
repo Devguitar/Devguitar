@@ -29,7 +29,7 @@
 const johnDave = {
     role: "Junior Full Stack Developer",
     currentFocus: "FullStack Health Information System",
-    learning: ["System Design", "API Architecture", "Scalable Patterns"],
+    learning: ["C# Development", "ASP.NET Core", "Design Patterns"],
     askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
     funFact: "Driven by curiosity, powered by coffee ☕"
 };
