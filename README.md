@@ -100,10 +100,22 @@ const johnDave = {
 </tr>
 </table>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table> -->
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <h3 style="text-align:center; color:#3B82F6;">Most Used Languages</h3>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" 
+        alt="Top Languages" 
+        width="80%" 
+      />
     </td>
   </tr>
 </table>
