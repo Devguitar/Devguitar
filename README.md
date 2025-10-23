@@ -94,8 +94,8 @@ const johnDave = {
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Devguitar&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
-
+<!-- <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Devguitar&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>
@@ -103,7 +103,8 @@ const johnDave = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="100%" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,scss,json" alt="Top Languages" width="100%" /> -->
+        <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Devguitar&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
     </td>
   </tr>
 </table> 
