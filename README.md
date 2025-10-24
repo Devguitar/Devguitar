@@ -158,8 +158,6 @@ const johnDave = {
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
 
 </div>
