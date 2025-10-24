@@ -12,6 +12,23 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat-square&logoColor=white)](https://devguitarportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white)](mailto:devguitar.github@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk)
+<!-- Put this in a README.md (if your renderer allows HTML) or in any HTML file -->
+<p>
+  <a href="https://devguitarportfolio.vercel.app/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat-square&logoColor=white"
+         alt="Portfolio" style="width:260px; height:auto; margin:8px; display:inline-block;">
+  </a>
+
+  <a href="mailto:devguitar.github@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logoColor=white"
+         alt="Email" style="width:260px; height:auto; margin:8px; display:inline-block;">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1uGYjA_c0g9OL2wmv9aFzLtWO0LIVgzf9/view?usp=drivesdk" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/📄_Resume-10B981?style=flat-square&logoColor=white"
+         alt="Resume" style="width:260px; height:auto; margin:8px; display:inline-block;">
+  </a>
+</p>
 
 </div>
 
