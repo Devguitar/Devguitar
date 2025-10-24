@@ -27,7 +27,7 @@
 
 ```typescript
 const johnDave = {
-    role: "Junior Full Stack Developer",
+    role: "Junior Full Stack Software Developer",
     currentFocus: "Full Stack Health Information System",
     learning: ["C# Development", "ASP.NET Core", "Design Patterns"],
     askMeAbout: ["Laravel", "Vue.js", "RESTful APIs", "Full Stack Dev"],
