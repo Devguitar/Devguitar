@@ -7,11 +7,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter;Clean+Code+Enthusiast;API+Architecture+Explorer" alt="Typing SVG" />
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Flutter;Clean+Code+Enthusiast;API+Architecture+Explorer"
-    alt="Typing SVG"
-  />
-
 <br/>
 <div align="center">
 <table>
