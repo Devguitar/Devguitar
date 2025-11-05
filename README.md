@@ -127,7 +127,7 @@ const johnDave = {
 </td>
 <td width="50%" valign="top">
   
-<img src="https://github-stats-readme-puce.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=5&include_all_commits=true&count_private=true" alt="Top Languages" width="100%" height="495" /> 
+<img src="https://github-stats-readme-puce.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=5&include_all_commits=true&count_private=true&card_width=280" alt="Top Languages" width="100%" height="495" /> 
 
 </td>
 </tr>
