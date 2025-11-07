@@ -153,14 +153,6 @@ const johnDave = {
 
 <br/>
 
-##  Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devguitar&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&area_color=3B82F6" alt="Contribution Graph" width="95%" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
 
 </div>
