@@ -124,7 +124,7 @@ const johnDave = {
 
 </td>
 <td width="50%" valign="top">
-  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&size_weight=0&count_weight=1&card_width=395" alt="Top Languages" width="100%"/>
 
 
