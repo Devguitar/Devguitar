@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://devguitarportfolio.vercel.app/">
+      <a href="https://jdev-portfolio-astro.vercel.app/">
         <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3B82F6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
       </a>
       <br/>
