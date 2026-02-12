@@ -119,13 +119,14 @@ const johnDave = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-stats-readme-puce.vercel.app/api?username=Devguitar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=percentile&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+<!-- <img src="https://github-stats-readme-puce.vercel.app/api?username=Devguitar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=percentile&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Devguitar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=percentile&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-stats-readme-puce.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&include_all_commits=true&count_private=true&card_width=395&hide=c%2B%2B,CMake,C,Swift" width="100%"/>
-
+<!-- <img src="https://github-stats-readme-puce.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&include_all_commits=true&count_private=true&card_width=395&hide=c%2B%2B,CMake,C,Swift" width="100%"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devguitar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6&card_width=395&hide=c%2B%2B,CMake,C,Swift" width="100%"/>
 </td>
 
 </tr>
